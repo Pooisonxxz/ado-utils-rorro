@@ -6,9 +6,9 @@ build-backend = "setuptools.build_meta"
 name = "adoutils"
 version = "0.2.0"
 authors = [
-    { name="Gonzalo Pincheira", email="g.pincheira.a@gmail.com" },
+    { name="Rodrigo Hernandez", email="rodrigoe.hernandezq@gmail.com" },
 ]
-description = "A small example package"
+description = "Package para bootcamp ADO"
 readme = "README.md"
 requires-python = ">=3.10"
 classifiers = [
